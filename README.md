@@ -11,7 +11,7 @@
 
 This repository contains the research artifacts and software developed as part of an undergraduate thesis entitled:
 
-**PENGEMBANGAN GAME EDUKASI BERBANTUAN ARTIFICIAL INTELLIGENCE PADA MATERI DASAR-DASAR PEMROGRAMAN DI SMKN 1 SEPULUH**
+**Development of an Artificial Intelligence-Assisted Educational Game for Basic Programming Learning at SMKN 1 Sepuluh.**
 
 The repository serves as an open archive for the thesis documentation, source code, and supporting materials, promoting reproducible research and open science.
 
