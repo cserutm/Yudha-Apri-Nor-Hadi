@@ -103,6 +103,7 @@ The Android application package (APK) for **Code Quest** is available in the **R
 |---------|-------------|
 | Codingan Game Edukasi Code Quest Yuda | Source code and game assets |
 | Skripsi + Pengesahan Yuda | Final thesis document and approval sheet |
+> **Note:** The Android application package (APK) is available in the **Releases** section of this repository.
 
 ---
 
