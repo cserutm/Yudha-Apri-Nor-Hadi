@@ -110,8 +110,11 @@ This project was conducted under the supervision of lecturers from the Informati
 
 ## Contact
 Computer Science Education Research (CSER)
+
 Department of Informatics Education
+
 Faculty of Teacher Training and Education
+
 Universitas Trunodjoyo Madura
 
 GitHub Organization:
