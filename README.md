@@ -29,6 +29,9 @@ The repository serves as an open archive for the thesis documentation, source co
 ├── Skripsi + Pengesahan Yuda/
 │   ├── Final Thesis (PDF)
 │   └── Approval Documents
+|
+├── Releases/
+│   └── Game Code Quest APK (GitHub Release)
 │
 └── README.md
 ```
@@ -82,9 +85,17 @@ This study employed the **Research and Development (R&D)** approach using the **
 - Visual Studio
 - Canva (UI Assets)
 - GitHub
-
-
+- 
 ---
+## Application Release
+
+The Android application package (APK) for **Code Quest** is available in the **Releases** section of this repository.
+
+**Current Release**
+- Version: v1.0
+- Platform: Android
+- Format: APK
+
 
 ## Repository Structure
 
