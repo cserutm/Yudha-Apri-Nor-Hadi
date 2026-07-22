@@ -1,4 +1,5 @@
-# 🎮 Code Quest: Educational Game
+# PENGEMBANGAN GAME EDUKASI BERBANTUAN ARTIFICIAL INTELLIGENCE PADA MATERI DASAR-DASAR PEMROGRAMAN DI SMKN 1 SEPULUH
+
 
 > Undergraduate Research Project  
 > Computer Science Education Research (CSER) UTM  
@@ -10,7 +11,7 @@
 
 This repository contains the research artifacts and software developed as part of an undergraduate thesis entitled:
 
-**Code Quest: Educational Game for Learning Informatics**
+**PENGEMBANGAN GAME EDUKASI BERBANTUAN ARTIFICIAL INTELLIGENCE PADA MATERI DASAR-DASAR PEMROGRAMAN DI SMKN 1 SEPULUH**
 
 The repository serves as an open archive for the thesis documentation, source code, and supporting materials, promoting reproducible research and open science.
 
@@ -38,7 +39,8 @@ The repository serves as an open archive for the thesis documentation, source co
 
 **Student**
 
-Yuda
+Yuda Apri Nor Hadi
+NIM: 220631100107
 
 **Study Program**
 
@@ -58,20 +60,29 @@ Computer Science Education Research (CSER) UTM
 
 This research aims to:
 
-- Develop an educational game for Informatics learning.
-- Improve students' engagement and learning motivation.
-- Evaluate the effectiveness of game-based learning.
+- Develop an AI-assisted educational game for Basic Programming learning.
+- Produce a feasible learning media through expert validation.
+- Analyze students' responses toward the developed educational game.
 
 ---
+## Research Method
+
+This study employed the **Research and Development (R&D)** approach using the **ADDIE** instructional design model. The development process consisted of five stages:
+
+1. **Analyze** – Identifying learning needs, student characteristics, curriculum requirements, and learning objectives.
+2. **Design** – Designing the game flow, user interface, learning materials, and assessment instruments.
+3. **Development** – Developing the educational game using Unity and integrating Artificial Intelligence features.
+4. **Implementation** – Conducting expert validation and limited user testing.
+5. **Evaluation** – Evaluating the developed product based on validation results and students' responses for further improvement.
 
 ## Technologies
 
-- Unity *(if applicable)*
+- Unity 2022.3.62f3 LTS
 - C#
 - Visual Studio
+- Canva (UI Assets)
 - GitHub
 
-*(Modify this section according to the technologies actually used.)*
 
 ---
 
@@ -90,15 +101,15 @@ If you use this repository for academic purposes, please cite the corresponding 
 
 Example:
 
-> Yuda. (2026). *Code Quest: Educational Game for Learning Informatics*. Undergraduate Thesis, Universitas Trunojoyo Madura.
+> Yuda Apri Nor Hadi. (2026). PENGEMBANGAN GAME EDUKASI BERBANTUAN ARTIFICIAL INTELLIGENCE PADA MATERI DASAR-DASAR PEMROGRAMAN DI SMKN 1 SEPULUH. Undergraduate Thesis, Universitas Trunojoyo Madura.
 
 ---
 
 ## License
 
-The source code is provided for educational and research purposes.
+This repository is intended for educational and research purposes only.
 
-Please contact the author before commercial use.
+Commercial use of the source code or accompanying materials requires prior permission from the author.
 
 ---
 
@@ -115,7 +126,7 @@ Department of Informatics Education
 
 Faculty of Teacher Training and Education
 
-Universitas Trunodjoyo Madura
+Universitas Trunojoyo Madura
 
 GitHub Organization:
 https://github.com/cserutm
